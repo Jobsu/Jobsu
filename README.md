@@ -1,4 +1,4 @@
-## Hello there, I'm Jóbson Rodrigues de Souza, I'm 17 years old, I currently study in 2nd year of High School.
+## Hello there, I'm Jóbson Rodrigues de Souza, I'm 17 years old, I currently study in 3nd year of High School.
 
 * 🌕 No momento estou estudando os pilares do Front-End, HTML5, CSS3 e JavaScript
 * 🌑 Quanto mais conhecimento, melhor

@@ -1,4 +1,4 @@
-## Hello there, I'm Jóbson Rodrigues de Souza, I'm 17 years old, I currently study in 3nd year of High School.
+## Hello there, I'm Jóbson Rodrigues de Souza, I'm 18 years old, I've finished high school in 2022, and now I focused in self-taught studies in Front End Area.
 
 * 🌕 No momento estou estudando os pilares do Front-End, HTML5, CSS3 e JavaScript
 * 🌑 Quanto mais conhecimento, melhor

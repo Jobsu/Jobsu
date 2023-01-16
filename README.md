@@ -6,7 +6,6 @@
 
 <div align="left">
   <a href="https://github.com/Jobsu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jobsu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 </div>
   
